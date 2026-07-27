@@ -24,9 +24,6 @@ This project delivers a high-precision numerical solver for pricing European cal
 ## Technical Stack & Applied Concepts
 * **Programming & Tools:** Python 3.10+, NumPy, SciPy (`scipy.linalg`, `scipy.stats`), Matplotlib.
 * **Quantitative Concepts:** Stochastic Calculus, Jump-Diffusion Processes, Partial Integro-Differential Equations (PIDEs), Numerical Linear Algebra, Finite Difference Methods, BDF2 Scheme, Option Pricing & Derivatives Valuation.
-
----
-
 ## Core Analytical Outputs
 The implementation performs automated validation tests and produces three primary quantitative diagnostics:
 1. **Option Price Profile:** Numerical option values vs. intrinsic payoff at maturity across a range of spot prices.
