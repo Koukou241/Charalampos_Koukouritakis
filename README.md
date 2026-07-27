@@ -20,11 +20,11 @@ Graduate student in **Mathematical Finance** with a background in **Applied Math
 
 ## Featured Projects
 
-### [Merton Jump-Diffusion Model Pricing]
+### Merton Jump-Diffusion Model Pricing
 * Numerical solver for European option pricing under Merton's PIDE using Finite Differences and BDF2 time-stepping.
 * Validated against Merton’s analytical solution with full $O(h^2)$ and $O(k^2)$ spatial and temporal convergence profiling.
 
-### [Empirical Portfolio Optimization: Markowitz vs. GMV]
+### Empirical Portfolio Optimization: Markowitz vs. GMV
 * Quantitative backtesting framework evaluating Mean-Variance (Tangency) vs. Global Minimum Variance (GMV) portfolios under estimation risk.
 * Analyzed out-of-sample risk-adjusted performance, Sharpe ratio degradation, and drawdown resilience.
 
