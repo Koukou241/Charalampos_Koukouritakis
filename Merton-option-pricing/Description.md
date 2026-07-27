@@ -29,4 +29,3 @@ The implementation performs automated validation tests and produces three primar
 1. **Option Price Profile:** Numerical option values vs. intrinsic payoff at maturity across a range of spot prices.
 2. **Pointwise Error Distribution:** Absolute error profile mapped across the log-price space $x = \ln(S)$, centered at strike $x_K$.
 3. **Convergence Analysis:** Log-log error plots demonstrating joint and isolated spatial $O(h^2)$ and temporal $O(k^2)$ convergence against theoretical limits.
-*
